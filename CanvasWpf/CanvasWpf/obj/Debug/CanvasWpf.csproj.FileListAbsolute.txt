@@ -1,0 +1,13 @@
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\bin\Debug\CanvasWpf.exe.config
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\bin\Debug\CanvasWpf.exe
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\bin\Debug\CanvasWpf.pdb
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\CanvasWpf.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\MainWindow.baml
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\MainWindow.g.cs
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\App.g.cs
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\CanvasWpf_MarkupCompile.cache
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\CanvasWpf.g.resources
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\CanvasWpf.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\CanvasWpf.csproj.GenerateResource.Cache
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\CanvasWpf.exe
+c:\users\steve\documents\visual studio 2013\Projects\CanvasWpf\CanvasWpf\obj\Debug\CanvasWpf.pdb
